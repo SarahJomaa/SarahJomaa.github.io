@@ -5963,7 +5963,7 @@ a.close.disabled {
 .carousel-indicators {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 15px;
   left: 0;
   z-index: 15;
   display: flex;
@@ -10207,12 +10207,14 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(223, 67, 50, 0.9);
+  background: rgba(255, 255, 255, 0.521);
+  /* background: rgba(223, 67, 50, 0.9); */
   /* background: rgba(254, 209, 54, 0.9); */
   align-items: center;
   justify-content: center;
   opacity: 0;
   transition: opacity ease-in-out 0.25s;
+  box-shadow: 2px 2px 2px 2px #50505042;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 1.25rem;
@@ -10294,12 +10296,13 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(223, 67, 50, 0.9);
+  background: rgba(255, 255, 255, 0.521);
   /* background: rgba(254, 209, 54, 0.9); */
   align-items: center;
   justify-content: center;
   opacity: 0;
   transition: opacity ease-in-out 0.25s;
+  box-shadow: 2px 2px 2px 2px #50505042;
 }
 #art .art-item .art-link .art-hover .art-hover-content {
   font-size: 1.25rem;
