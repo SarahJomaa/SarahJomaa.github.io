@@ -10145,7 +10145,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/beirut-bg.JPG");
+  background-image: url("../assets/img/detroit.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10178,7 +10178,7 @@ header.masthead .masthead-heading {
     /* font-style: italic; */
     line-height: 2.25rem;
     margin-bottom: 2rem;
-    text-shadow: 2px 2px #333333;
+    text-shadow: 3px 3px 4px #1a1a1a;
     /* display: flex; */
     flex-wrap: wrap;
     word-wrap: normal;
@@ -10189,7 +10189,7 @@ header.masthead .masthead-heading {
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 1rem;
-    text-shadow: 2px 2px 4px #1a1a1a;
+    text-shadow: 3px 3px 5px #1a1a1a;
   }
 }
 #portfolio .portfolio-item {
